@@ -26,8 +26,8 @@ O objetivo é visualizar as áreas impactadas pelo desmatamento ao longo dos ano
 - `Outputs/` - Mapas finais exportados em PNG ou PDF.  
 - `README.md` - Descrição do projeto.
 
-## Visualização do Mapa
-![Mapa Final](caminho/para/imagem.png)
+## Visualização do Map![Desmatamento2](https://github.com/user-attachments/assets/1477190d-0bf8-47ec-8320-5f24a29a8666)
+
 
 ## Como Abrir
 1. Instale o [QGIS](https://qgis.org).  
